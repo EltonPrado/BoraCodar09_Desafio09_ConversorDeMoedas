@@ -16,7 +16,7 @@ O desafio foi a criação de uma Landing Page de um conversor de moedas. <br>
 
 Quer conferir como ficou o conversor?
 
-[Visite o projeto online](https://eltonprado.github.io/BoraCodar_Desafio08_Dashboard/)
+[Visite o projeto online](https://eltonprado.github.io/BoraCodar09_Desafio09_ConversorDeMoedas/)
 
 <br>
 
