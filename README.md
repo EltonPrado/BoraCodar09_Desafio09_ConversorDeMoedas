@@ -54,4 +54,3 @@ Foi utilizado as seguintes tecnologias para desenvolver esse projeto:
 - Git
 - GitHub
 - https://apexcharts.com/
-# BoraCodar_Desafio09_ConversorDeMoedas
